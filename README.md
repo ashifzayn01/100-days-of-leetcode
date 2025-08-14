@@ -19,3 +19,12 @@ day2/problem3.java
 day2/problem4.java
 day2/problem5.java
 
+
+#Day3 - 14 aug 2025
+
+problem solved 3
+-files
+day3/problem1.java
+day3/problem2.java
+day3/problem3.java
+
