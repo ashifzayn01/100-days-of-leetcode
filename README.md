@@ -44,6 +44,20 @@ day5/problem2.java
 day5/problem3.java
 day5/problem4.java
 
+#day6 solved 5 problem
+📈 Learned:
+
+Efficiently squaring and sorting array elements using two-pointer technique
+
+Optimizing in-place shifting while moving all zeros to the end
+
+Handling duplicate elements in sorted arrays with minimal space
+
+Implementing carry-forward logic in arrays (Plus One problem)
+
+Reversing arrays in groups using mathematical boundaries and iterations
+
+
 
 
 
