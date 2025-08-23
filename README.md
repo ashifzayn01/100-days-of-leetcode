@@ -58,6 +58,40 @@ Implementing carry-forward logic in arrays (Plus One problem)
 Reversing arrays in groups using mathematical boundaries and iterations
 
 
+#day9 solved 
+-files
+day9/problem1.java --> learn the concept of palindrome also larned how to replace all non characer/digit to lowercase
+
+.) day9/problem2.java-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
